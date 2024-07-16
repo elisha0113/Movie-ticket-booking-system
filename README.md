@@ -1,11 +1,9 @@
 # Movie-ticket-booking-system
 
-
-Movie Ticket Booking System in Assembly Language
-Overview
+!Overview!
 Welcome to the Movie Ticket Booking System, a comprehensive project developed entirely in Assembly Language. This system is designed to simulate the process of booking movie tickets, offering a fundamental understanding of how complex tasks can be accomplished using low-level programming. It is an excellent resource for students and enthusiasts looking to explore the intricacies of Assembly Language and the workings of a ticket booking system.
 
-Features
+!Features!
 User Interface: A simple, text-based interface that allows users to interact with the system.
 Movie Selection: Users can browse through a list of available movies.
 Seat Selection: The system provides options to select seats from a seating arrangement.
